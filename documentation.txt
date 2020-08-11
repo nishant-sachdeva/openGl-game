@@ -1,0 +1,6 @@
+Following document will contain details about various parts of the project
+
+
+1. Link to learn OpenGl
+2. Link to install openGl
+3. Link to check version of OpenGl installed in the system
